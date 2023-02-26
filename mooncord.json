@@ -4,7 +4,7 @@
         "moonraker_url": "http://127.0.0.1",
         "moonraker_token": "",
         "moonraker_retry_interval": 2,
-        "bot_token": "NjgyMjQwOTYxMTc0NDM4MTIy.G0yNT9.U5tZf2ovnC2Td9Tp1ecyPEDRPSen5U-5nu5RzI"
+        "bot_token": ""
     },
     "logger": {
         "disable_file": false,
